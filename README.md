@@ -51,17 +51,12 @@ Make sure to install these libraries if they are not already installed in your e
 
 If you want to contribute to this project, feel free to fork the repository and create a pull request. You can also open issues or provide feedback.
 
-## License
-
-This project is provided under the [MIT License](LICENSE).
-
 ## Contact
 
 If you have any questions or need further information, you can contact the project maintainer:
 
-- [Your Name]
-- [Your Email]
-- [Your Website (if applicable)]
+- [Jinrui Fang]
+- [jf4959@nyu.edu]
 
 ## Acknowledgments
 
